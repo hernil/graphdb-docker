@@ -1,1 +1,3 @@
 /graphdb-data
+preload/import/*
+preload/imported/*
